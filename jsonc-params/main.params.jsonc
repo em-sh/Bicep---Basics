@@ -1,0 +1,12 @@
+{
+    // This JSONC file contains parameters for configuring a storage account in Azure.
+    "storageAccountName": {
+        "value": "myStorageAccount"
+    },
+    "location": {
+        "value": "eastus"
+    },
+    "sku": {
+        "value": "Standard_LRS"
+    }
+}
